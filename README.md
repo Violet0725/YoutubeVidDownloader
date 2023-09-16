@@ -1,2 +1,3 @@
 # YoutubeVidDownloader
-Downloads a youtube video from given link
+## Downloads a YouTube video from the given link
+### Simply paste the video link in the box then press the download button
